@@ -1,2 +1,5 @@
-# Delineamento-e-Analise-de-Experimentos
-DAE - Principais técnicas
+# Delineamento-e-Análise-de-Experimentos
+
+DAE - Principais técnicas em estatística
+
+Material para diferentes métodos de Delineamento em Estatística: Testes básicos T-Student e ANOVA, Delineamento Inteiramente Casualizado, Delineamento Blocos Casualizados, Quadrado Latino, Ensaio Fatorial e Split-Plot. 
